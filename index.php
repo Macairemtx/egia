@@ -41,7 +41,7 @@
         </div>
         <nav class="offcanvas__menu mobile-menu">
             <ul>
-                <li class="active"><a href="./index.php">Turier</a></li>
+                <li class="active"><a href="./index.php">Home</a></li>
                 <li><a href="./about.html">About</a></li>
                 <li><a href="./services.html">Services</a></li>
                 <li><a href="./blog.html">Blog</a></li>
@@ -110,7 +110,7 @@
                     <div class="header__nav">
                         <nav class="header__menu">
                             <ul>
-                                <li class="active"><a href="./index.php">Turier</a></li>
+                                <li class="active"><a href="./index.php">Home</a></li>
                                 <li><a href="./about.html">About</a></li>
                                 <li><a href="./services.html">Services</a></li>
                                 <li><a href="./blog.html">Blog</a></li>
